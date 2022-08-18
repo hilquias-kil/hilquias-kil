@@ -5,8 +5,6 @@
   
 I have ten years of hands-on experience efficiently coding websites and applications using modern HTML, CSS, JavaScript, Typescript and React.  
   
-
-- 👨🏽‍💻  I’m currently working on [Flatirons Development](https://flatironsdevelopment.com/)  
   
 
 <br/>  
