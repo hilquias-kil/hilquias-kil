@@ -23,7 +23,9 @@ I have ten years of hands-on experience efficiently coding websites and applicat
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gatsby.png" alt="Gatsby" height="50" />  
-<img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Nextjs" height="50" /> <img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" alt="jest" height="50" /> 
+<img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Nextjs" height="50" /> <img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" alt="jest" height="50" />
+<img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" height="50" />
+
   
 </div>
 
